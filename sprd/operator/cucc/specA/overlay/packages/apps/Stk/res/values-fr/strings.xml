@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="menu_end_session">"Fermer la session"</string>
+<string name="help">"Aide"</string>
+<string name="menu_back">"Retour"</string>
+<string name="service_name">"Nom du service"</string>
+<string name="stk_no_service">"Aucun service disponible"</string>
+<string name="button_ok">"OK"</string>
+<string name="button_cancel">"Annuler"</string>
+<string name="button_yes">"Oui"</string>
+<string name="button_no">"Non"</string>
+<string name="alphabet">"Alphabets"</string>
+<string name="digits">"Chiffres (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"Appel en cours..."</string>
+<string name="stk_app_state">"État de l\'application"</string>
+<string name="enable_app">"Activé"</string>
+<string name="disable_app">"Désactivé"</string>
+<string name="input_length_error">La longueur minimal de saisie est: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">"Erreur du type de caractère"</string>
+<string name="action_setup_call">"Effectuer un appel"</string>
+<string name="action_launch_browser">"Lancer le navigateur"</string>
+<string name="incall_error_call_failed">"L\'appel n\'a pas été effectué."</string>
+<string name="channel_connecting">Connexion du canal...</string>
+</resources>

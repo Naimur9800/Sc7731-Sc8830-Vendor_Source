@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">Zaupen program in prioriteta</string>
+<string name="wifi_move_ap_up">Gor</string>
+<string name="wifi_move_ap_down">Dol</string>
+<string name="wifi_save_update">"Shrani"</string>
+<string name="trusted_ap_list_null">Nezaupana aplikacija!</string>
+<string name="mobile_to_wlan_popup_title">"Pošči zaupanja vredno aplikacijo za Wi-Fi"</string>
+<string name="mobile_data_connect_enable">"Da"</string>
+<string name="mobile_data_connect_disable">"Ne"</string>
+<string name="mobile_to_wlan_popup">"Odkrivanje Wi-Fi signala %1$s, Pri uporabi Wi-Fi omrežja lahko pride do motenj delovanja prenosa podatkov"</string>
+<string name="network_disconnect_title">Obvestilo</string>
+<string name="network_disconnect_message">"Wi-Fi omrežje je izklopljeno. \nPovežem preko mobilnega prenosa podatkov? \nČe nimate podatkovnega paketa, se storitve lahko dodatno zaračunajo."</string>
+<string name="gprs_to_wifi_yes">"Da"</string>
+<string name="gprs_to_wifi_no">"Ne"</string>
+<string name="select_trusted_ap_access">Naslednja zaupna AP točka je bila najdena</string>
+</resources>

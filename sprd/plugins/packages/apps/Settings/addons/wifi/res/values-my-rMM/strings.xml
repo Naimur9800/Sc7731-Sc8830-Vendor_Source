@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">ယံုၾကည္စိတ္ခ်ရေသာ AP ႏွင့္ ဦးစားေပးခ်က္</string>
+<string name="wifi_move_ap_up">အထက္</string>
+<string name="wifi_move_ap_down">ေအာက္သို႔</string>
+<string name="wifi_save_update">စုထားသည်</string>
+<string name="trusted_ap_list_null">ယံုျကည္ခဲ့သည့္ေအပီ မဟုတ္ပါ!</string>
+<string name="mobile_to_wlan_popup_title">"ယံုျကည္ခဲ့သည့္ေအပီ မဟုတ္ပါ!"</string>
+<string name="mobile_data_connect_enable">လုပ္မည္</string>
+<string name="mobile_data_connect_disable">"မ႐ွိ"</string>
+<string name="mobile_to_wlan_popup">"မ႐ွိ"</string>
+<string name="network_disconnect_title">အသိေပးျခင္း</string>
+<string name="network_disconnect_message">"အသိေပးျခင္း"</string>
+<string name="gprs_to_wifi_yes">လုပ္မည္</string>
+<string name="gprs_to_wifi_no">"မ႐ွိ"</string>
+<string name="select_trusted_ap_access">ယံုၾကည္စိတ္ခ်ရသည့္ ဝင္ေပါက္အမွတ္ ap အတြက္ ေအာက္ပါအေၾကာင္းအရာအား ေတြ႔႐ွိထားသည္</string>
+</resources>

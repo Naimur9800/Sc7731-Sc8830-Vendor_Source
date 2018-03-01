@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="menu_end_session">"إنهاء الجلسة"</string>
+<string name="help">"تعليمات"</string>
+<string name="menu_back">"الخلف"</string>
+<string name="service_name">"اسم الخدمة"</string>
+<string name="stk_no_service">"لا تتوفر خدمة"</string>
+<string name="button_ok">"إعادة تسمية"</string>
+<string name="button_cancel">"الغاء"</string>
+<string name="button_yes">"Yes"</string>
+<string name="button_no">"No"</string>
+<string name="alphabet">"الحروف الأبجدية"</string>
+<string name="digits">"الأرقام (0-9، *، #، +)"</string>
+<string name="default_call_setup_msg">"الاتصال قيد التقدم..."</string>
+<string name="stk_app_state">"حالة التطبيق"</string>
+<string name="enable_app">"تم التمكين"</string>
+<string name="disable_app">"تعطيل"</string>
+<string name="input_length_error">"طول اقل ادخال يجب ان يكون : <xliff:g id="input_minLen">%1$d</xliff:g>"</string>
+<string name="input_type_error">"خطأ نوع الحرف"</string>
+<string name="action_setup_call">"اجراء مكاملة"</string>
+<string name="action_launch_browser">"تشغيل المتصفح"</string>
+<string name="incall_error_call_failed">"لم يتم إرسال الاتصال."</string>
+<string name="channel_connecting">"اتصال القناة..."</string>
+</resources>

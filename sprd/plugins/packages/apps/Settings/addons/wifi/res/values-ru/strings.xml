@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">Доверенные AP и приоритет</string>
+<string name="wifi_move_ap_up">Вверх</string>
+<string name="wifi_move_ap_down">Вниз</string>
+<string name="wifi_save_update">"Готово"</string>
+<string name="trusted_ap_list_null">Нет доверенных приложений!</string>
+<string name="mobile_to_wlan_popup_title">"поиск надеждной точки доступа wifi"</string>
+<string name="mobile_data_connect_enable">"Да"</string>
+<string name="mobile_data_connect_disable">"Нет"</string>
+<string name="mobile_to_wlan_popup">"Проверьте сигнал wifi %1$s. Во время использования  wifiсеть может вызвать частичные сбои" "</string>
+<string name="network_disconnect_title">Примечание</string>
+<string name="network_disconnect_message">""wifi отключен.\n подкл. через моб. телефон? \n Если  не установлен тарифлый план,может взиматься дополн. плата" "</string>
+<string name="gprs_to_wifi_yes">"Да"</string>
+<string name="gprs_to_wifi_no">"Нет"</string>
+<string name="select_trusted_ap_access">Выбраны следующие проверенные точки доступа</string>
+</resources>

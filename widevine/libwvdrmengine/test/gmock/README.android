@@ -1,0 +1,69 @@
+URL: https://code.google.com/p/googlemock/downloads/list
+Version: 1.7.0
+License: New BSD License
+
+Description:
+Google's framework for writing and using C++ mock classes on a variety of
+platforms (Linux, Mac OS X, Windows, Windows CE, Symbian, etc). Inspired by
+jMock, EasyMock, and Hamcrest, and designed with C++'s specifics in mind, it can
+help you derive better designs of your system and write better tests.
+
+While gMock supports building with the Android NDK out-of-the-box, it needs some
+small modifications to build as part of the Android OS build.  Specifically, it
+needs a different format of build script, and it needs to build against the OS'
+modified version of gTest, rather than the packaged version.
+
+Local Modifications:
+--Tue Jun 3, 2014 (joeyparrish)--
+
+Removed DOS newlines for the sake of the git-to-piper bridge.  Piper converts
+newlines automatically to unix style.  If this change is not made in git, the
+bridge detects differences and attempts to sync to piper, even when nothing
+has changed in git.
+
+--Mon Feb 4, 2014 (juce)--
+
+Upgraded to gMock 1.7.0.  This is required for compatibility with the upgrade
+of gTest on Android Master to 1.7.0.  Note that after this change, this code
+will no longer work on Android KLP branches.  Our gMock must match the version
+of gTest in the Android tree.
+
+Updated src/Android.mk to turn on the gTest replacement for std::tr1::tuple.
+On Android, gTest builds without using the platform's std::tr1::tuple (which
+does not exist on Android) and without gTest's implementation of a subset of
+std::tr1::tuple.  This works on Android because it omits the few features that
+rely on std::tr1::tuple.  But gMock was written assuming std::tuple or the
+gTest-defined subset would be available, and it cannot be used without one or
+the other.
+
+Updated src/Android.mk to account for the new compilers on Android Master.
+
+Removed the unused Host build from src/Android.mk.
+
+Updated the android-rsync-excludes file to reflect the new source and sorted it
+alphabetically.
+
+Updated Dr. gMock (which was again omitted from the release) to version 1.7.0.
+
+--Wed Mar 20, 2013 (juce)--
+
+Added the Dr. gMock script, which was missing from the 1.6.0 distribution.
+
+--Mon Mar 4, 2013 (juce)--
+
+Added this documentation
+
+Added Android.mk and src/Android.mk files
+
+Excluded the following files from being copied to Android repo:
+  Makefile.in
+  Makefile.am
+  aclocal.m4
+  CMakeLists.txt
+  configure
+  configure.ac
+  build-aux/
+  make/
+  msvc/
+  fused-src/
+  gtest/

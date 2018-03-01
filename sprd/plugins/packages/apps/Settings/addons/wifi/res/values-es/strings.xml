@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">AP de confianza y Prioridad</string>
+<string name="wifi_move_ap_up">Arriba</string>
+<string name="wifi_move_ap_down">Abajo</string>
+<string name="wifi_save_update">"Guardar"</string>
+<string name="trusted_ap_list_null">¡No hay un ap confiable!</string>
+<string name="mobile_to_wlan_popup_title">"Encontrar una AP confiable Wi-Fi"</string>
+<string name="mobile_data_connect_enable">"Sí"</string>
+<string name="mobile_data_connect_disable">"No"</string>
+<string name="mobile_to_wlan_popup">"Se ha encontrado señal wifi %1$s,desea usar la red Wifi, al utilizar la red wifi podria causar interrupcion parcial de los datos"</string>
+<string name="network_disconnect_title">Aviso</string>
+<string name="network_disconnect_message">"Se ha desconectado la red WiFi. \nConectar via datos mobiles? \nsi no tiene un plan de datos, le creare cargos adicionales."</string>
+<string name="gprs_to_wifi_yes">"Sí"</string>
+<string name="gprs_to_wifi_no">"No"</string>
+<string name="select_trusted_ap_access">Lo siguiente se ha encontrado para añadir la aplicación de punto de acceso a la lista de confianza</string>
+</resources>

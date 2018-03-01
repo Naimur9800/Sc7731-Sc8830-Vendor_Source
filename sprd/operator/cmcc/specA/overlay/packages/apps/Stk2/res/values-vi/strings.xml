@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Ứng dụng SIM3"</string>
+<string name="menu_end_session">"Kết thúc phiên"</string>
+<string name="help">"Giúp đỡ"</string>
+<string name="menu_back">"Quay lại"</string>
+<string name="service_name">"Tên dịch vụ"</string>
+<string name="stk_no_service">"Không có dịch vụ nào"</string>
+<string name="button_ok">"OK"</string>
+<string name="button_cancel">"Hủy"</string>
+<string name="button_yes">"Có"</string>
+<string name="button_no">"KHÔNG"</string>
+<string name="alphabet">"Bảng chữ cái"</string>
+<string name="digits">"Chữ số (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"Cuộc gọi đang diễn ra…"</string>
+<string name="stk_app_state">"Trạng thái ứng dụng"</string>
+<string name="enable_app">"Đã bật"</string>
+<string name="disable_app">"Đã bị tắt"</string>
+<string name="input_length_error">Độ dài đầu vào tối thiểu là: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">Lỗi kiểu ký tự</string>
+<string name="action_setup_call">Thực hiện cuộc gọi</string>
+<string name="action_launch_browser">Khởi chạy trình duyệt</string>
+<string name="incall_error_call_failed">"Cuộc gọi không được gửi đi."</string>
+<string name="channel_connecting">"Đang kết nối Kênh..."</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="menu_end_session">"จบเซสชัน"</string>
+<string name="help">"ความช่วยเหลือ"</string>
+<string name="menu_back">"ย้อนกลับ"</string>
+<string name="service_name">"ชื่อบริการ"</string>
+<string name="stk_no_service">"บริการไม่พร้อมใช้งาน"</string>
+<string name="button_ok">"ตกลง"</string>
+<string name="button_cancel">"ยกเลิก"</string>
+<string name="button_yes">"ใช่"</string>
+<string name="button_no">"ไม่"</string>
+<string name="alphabet">"ตัวอักษร"</string>
+<string name="digits">"เลข (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"กำลังใช้สาย..."</string>
+<string name="stk_app_state">"สถานะแอปพลิเคชัน"</string>
+<string name="enable_app">"เปิดใช้งานแล้ว"</string>
+<string name="disable_app">"ถูกปิดใช้งาน"</string>
+<string name="input_length_error">ความยาวข้อมูลที่ป้อนขั้นต่ำคือ: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">รูปแบบช่องขัดข้อง</string>
+<string name="action_setup_call">โทร</string>
+<string name="action_launch_browser">เปิดตัวเบราว์เซอร์</string>
+<string name="incall_error_call_failed">"ไม่ได้โทรออก"</string>
+<string name="channel_connecting">ช่องเชื่อมต่อ ...</string>
+</resources>

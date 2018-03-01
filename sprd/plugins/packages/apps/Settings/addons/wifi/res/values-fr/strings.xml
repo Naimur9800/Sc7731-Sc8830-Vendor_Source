@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">AP de confiace et  la priorité</string>
+<string name="wifi_move_ap_up">Haut</string>
+<string name="wifi_move_ap_down">Bas</string>
+<string name="wifi_save_update">"Enregistrer"</string>
+<string name="trusted_ap_list_null">Aucun point d\'accès de confiance !</string>
+<string name="mobile_to_wlan_popup_title">"Réseau Wi-Fi est déconnecté. \nSe connecter via les données mobiles? \nSi vous ne avez pas un plan de données, il peut entraîner des frais supplémentaires."</string>
+<string name="mobile_data_connect_enable">"Oui"</string>
+<string name="mobile_data_connect_disable">"Non"</string>
+<string name="mobile_to_wlan_popup">"Que ce soit pour traiter fichier DRM <xliff:g id="DRMFILENAME">%s</xliff:g>？"</string>
+<string name="network_disconnect_title">Avis</string>
+<string name="network_disconnect_message">"Le droit à <xliff:g id="DRMFILE">%s</xliff:g> le document n\'est pas disponible，cliquez sur Renouveler pour télécharger le bon fichier"</string>
+<string name="gprs_to_wifi_yes">"Oui"</string>
+<string name="gprs_to_wifi_no">"Non"</string>
+<string name="select_trusted_ap_access">Ce qui suit se trouve à la confiance du point d\'accès AP</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Додаток SIM3"</string>
+<string name="menu_end_session">"Заверш. сеанс"</string>
+<string name="help">"Довідка"</string>
+<string name="menu_back">"Назад"</string>
+<string name="service_name">"Назва служби"</string>
+<string name="stk_no_service">"Недост. жодна служба"</string>
+<string name="button_ok">"OK"</string>
+<string name="button_cancel">"Скасувати"</string>
+<string name="button_yes">"Так"</string>
+<string name="button_no">"Ні"</string>
+<string name="alphabet">"Алфавітн."</string>
+<string name="digits">"Цифри (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"Здійсн. виклик..."</string>
+<string name="stk_app_state">"Стан програми"</string>
+<string name="enable_app">Доступно</string>
+<string name="disable_app">"Вимкнено"</string>
+<string name="input_length_error">Мінімальна довжина вводу складає: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">"Помилка типу символу"</string>
+<string name="action_setup_call">"Виконання виклику"</string>
+<string name="action_launch_browser">"Запуск браузера"</string>
+<string name="incall_error_call_failed">"Виклик не здійснюється."</string>
+<string name="channel_connecting">"Канал, що з\'єднує ..."</string>
+</resources>

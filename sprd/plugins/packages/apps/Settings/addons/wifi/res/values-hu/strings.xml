@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">Megbízható hozzáférési pont és prioritás</string>
+<string name="wifi_move_ap_up">Fel</string>
+<string name="wifi_move_ap_down">Le</string>
+<string name="wifi_save_update">"Mentés"</string>
+<string name="trusted_ap_list_null">Nem megbízható hozzáférési pont!</string>
+<string name="mobile_to_wlan_popup_title">"Megbízható Wi-Fi hozzáférési pont keresése"</string>
+<string name="mobile_data_connect_enable">"Igen"</string>
+<string name="mobile_data_connect_disable">"Nem"</string>
+<string name="mobile_to_wlan_popup">"Észlelt %1$s Wi-Fi jel. Szeretné használni a Wi-Fi hálózatot? Ezzel megszakadhat az adatátvitel."</string>
+<string name="network_disconnect_title">"Értesítés"</string>
+<string name="network_disconnect_message">"Wi-Fi hálózat lecsatlakoztatva. \nCsatlakozás mobil kapcsolaton keresztül? \nHa nincs előfizetése, ez további költségeket eredményezhet."</string>
+<string name="gprs_to_wifi_yes">"Igen"</string>
+<string name="gprs_to_wifi_no">"Nem"</string>
+<string name="select_trusted_ap_access">A következő található megbízható hozzáférési pontnak</string>
+</resources>

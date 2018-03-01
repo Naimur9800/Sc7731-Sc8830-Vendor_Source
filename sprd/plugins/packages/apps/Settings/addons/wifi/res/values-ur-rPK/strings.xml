@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">"پر اعتبار ایپ اور ترجیح"</string>
+<string name="wifi_move_ap_up">"اوپر"</string>
+<string name="wifi_move_ap_down">"نیچے"</string>
+<string name="wifi_save_update">"محفوظ کریں"</string>
+<string name="trusted_ap_list_null">"کوئی قابل اعتماد ap نہیں!"</string>
+<string name="mobile_to_wlan_popup_title">"ایک قابل اعتماد وائی فائی ایپ تلاش کریں"</string>
+<string name="mobile_data_connect_enable">"ہاں"</string>
+<string name="mobile_data_connect_disable">"نہیں"</string>
+<string name="mobile_to_wlan_popup">"وائی فائی سگنل ڈسکوری %1$s، وائی فائی نیٹ ورک استعمال کرنا ہے یا نہیں ، وائی فائی استعمال کرنا بزنس ڈیٹا میں جزوی رکاوٹ بن سکتا ہے۔ "</string>
+<string name="network_disconnect_title">"نوٹس"</string>
+<string name="network_disconnect_message">"وائی فائی نیٹ ورک رابطہ منقطع ہوگیا ہے. ہے n \؟ موبائل ڈیٹا کے ذریعے رابطہ کریں؟ /n، اگر آپ کے پاس ڈیٹا پلان  نہیں ہے، تو اضافی چارجز پڑ سکتے ہیں۔"</string>
+<string name="gprs_to_wifi_yes">"ہاں"</string>
+<string name="gprs_to_wifi_no">"نہیں"</string>
+<string name="select_trusted_ap_access">"ٹرسٹ ایکسیس پوائنٹ ایپ کے لیے،  مند رجہ ذیل ملا ہے "</string>
+</resources>

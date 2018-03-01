@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">"Aplicació de confiança i prioritat"</string>
+<string name="wifi_move_ap_up">"Amunt"</string>
+<string name="wifi_move_ap_down">"Avall"</string>
+<string name="wifi_save_update">"Desa"</string>
+<string name="trusted_ap_list_null">"Aquesta AP no és de confiança!"</string>
+<string name="mobile_to_wlan_popup_title">"Troba una AP de Wi-Fi de confiança"</string>
+<string name="mobile_data_connect_enable">"Sí"</string>
+<string name="mobile_data_connect_disable">"No"</string>
+<string name="mobile_to_wlan_popup">"S\'ha descobert una senyal  %1$s de Wi-Fi, si utilitzeu aquesta xarxa Wi-Fi es pot produir una interrupció parcial del trànsit de dades"</string>
+<string name="network_disconnect_title">"Avís"</string>
+<string name="network_disconnect_message">"La xarxa de Wi-Fi està desconnectada. \nConnectar a través de dades mòbils? \nSi no teniu una tarifa de dades, pot representar costos addicionals."</string>
+<string name="gprs_to_wifi_yes">"Sí"</string>
+<string name="gprs_to_wifi_no">"No"</string>
+<string name="select_trusted_ap_access">"El punt d\'accés a aplicació següent és fiable"</string>
+</resources>

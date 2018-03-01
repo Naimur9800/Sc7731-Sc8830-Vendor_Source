@@ -1,0 +1,70 @@
+// ----------------------------------------------------------------------------
+// device_files.proto
+// ----------------------------------------------------------------------------
+// Copyright 2013 Google Inc. All Rights Reserved.
+//
+// Description:
+//   Format of various files stored at the device.
+//
+syntax = "proto2";
+
+package video_widevine_client.sdk;
+
+// need this if we are using libprotobuf-cpp-2.3.0-lite
+option optimize_for = LITE_RUNTIME;
+
+message DeviceCertificate {
+  optional bytes certificate = 1;
+  optional bytes wrapped_private_key = 2;
+}
+
+message License {
+  enum LicenseState {
+    ACTIVE = 1;
+    RELEASING = 2;
+  }
+
+  optional LicenseState state = 1;
+  optional bytes pssh_data = 2;
+  optional bytes license_request = 3;
+  optional bytes license = 4;
+  optional bytes renewal_request = 5;
+  optional bytes renewal = 6;
+  optional bytes release_server_url = 7;
+  optional int64 playback_start_time = 8 [default = 0];
+  optional int64 last_playback_time = 9 [default = 0];
+}
+
+message UsageInfo {
+  message ProviderSession {
+    optional bytes token = 1;
+    optional bytes license_request = 2;
+    optional bytes license = 3;
+  }
+
+  repeated ProviderSession sessions = 1;
+}
+
+message File {
+  enum FileType {
+    DEVICE_CERTIFICATE = 1;
+    LICENSE = 2;
+    USAGE_INFO = 3;
+  }
+
+  enum FileVersion {
+    VERSION_1 = 1;
+  }
+
+  optional FileType type = 1;
+  optional FileVersion version = 2 [default = VERSION_1];
+  optional DeviceCertificate device_certificate = 3;
+  optional License license = 4;
+  optional UsageInfo usage_info = 5;
+}
+
+message HashedFile {
+  optional bytes file = 1;
+  // A raw (not hex-encoded) SHA256, taken over the bytes of 'file'.
+  optional bytes hash = 2;
+}

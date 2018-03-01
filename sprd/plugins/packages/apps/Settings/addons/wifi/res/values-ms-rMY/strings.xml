@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">AP dan Keutamaan Dipercayai</string>
+<string name="wifi_move_ap_up">Atas</string>
+<string name="wifi_move_ap_down">Bawah</string>
+<string name="wifi_save_update">"Selesai"</string>
+<string name="trusted_ap_list_null">Tiada aplikasi yang dipercayai!</string>
+<string name="mobile_to_wlan_popup_title">"Cari Wi-Fi AP yang dipercayai"</string>
+<string name="mobile_data_connect_enable">"Ya"</string>
+<string name="mobile_data_connect_disable">"Tidak"</string>
+<string name="mobile_to_wlan_popup">"Penemuan isyarat Wi-Fi %1$s, Sama ada mahu menggunakan rangkaian Wi-Fi, dengan menggunakan rangkaian yang boleh membuat gangguan perniagaan data separa"</string>
+<string name="network_disconnect_title">Notis</string>
+<string name="network_disconnect_message">"Rangkaian Wi-Fi diputuskan. \nSambung melalui data mudah alih? \nJika rangkaian anda mempunyai pelan data, ia mungkin dikenakan bayaran tambahan."</string>
+<string name="gprs_to_wifi_yes">"Ya"</string>
+<string name="gprs_to_wifi_no">"Tidak"</string>
+<string name="select_trusted_ap_access">Titik akses ap yang dipercayai berikut dijumpai</string>
+</resources>

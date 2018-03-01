@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Menu item that opens the Options activity for a given contact [CHAR LIMIT=15] -->
+    <string name="menu_addToBlacklist">Add to blacklist</string>
+    <string name="menu_deleteFromBlacklist">Delete from blacklist</string>
+    <string name="success_removeFromBlacklist">Delete success</string>
+    <string name="failed_removeFromBlacklist">Delete failed</string>
+    <string name="failed_addToBlacklist">Add failed</string>
+    <string name="success_addToBlacklist">Add success</string>
+
+</resources>

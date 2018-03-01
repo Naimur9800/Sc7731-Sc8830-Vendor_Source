@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Programu Tumizi ya SIM1"</string>
+<string name="app_name_mono_card">"Programu Tumizi ya SIM"</string>
+<string name="menu_end_session">"Maliza kipindi"</string>
+<string name="help">"Msaada"</string>
+<string name="menu_back">"Nyuma"</string>
+<string name="service_name">"Jina la huduma"</string>
+<string name="stk_no_service">"Hakuna huduma inayopatikana"</string>
+<string name="button_ok">"Sawa"</string>
+<string name="button_cancel">"Ghairi"</string>
+<string name="button_yes">"Ndio"</string>
+<string name="button_no">"Hapana"</string>
+<string name="alphabet">"Alfabeti"</string>
+<string name="digits">"Tarakimu (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"Upigaji simu unaendelea..."</string>
+<string name="stk_app_state">"Hali ya programu"</string>
+<string name="enable_app">"Imewezeshwa"</string>
+<string name="disable_app">"Imelemazwa"</string>
+<string name="input_length_error">Kiwango cha chini cha urefu wa uingizaji ni: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">Hitilafu ya aina ya tabia</string>
+<string name="action_setup_call">Kupiga simu</string>
+<string name="action_launch_browser">Kivinjari cha Uzinduzi</string>
+<string name="incall_error_call_failed">"Simu haijatumwa."</string>
+<string name="channel_connecting">Idhaa inaunganishwa…</string>
+</resources>

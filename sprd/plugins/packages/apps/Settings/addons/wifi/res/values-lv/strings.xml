@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">"Uzticams AP un Prioritāte"</string>
+<string name="wifi_move_ap_up">"Uz augšu"</string>
+<string name="wifi_move_ap_down">"Uz leju"</string>
+<string name="wifi_save_update">"Saglabāt"</string>
+<string name="trusted_ap_list_null">"Nav uzticamu ap!"</string>
+<string name="mobile_to_wlan_popup_title">"Atrast uzticamu Wi-Fi AP"</string>
+<string name="mobile_data_connect_enable">"Jā"</string>
+<string name="mobile_data_connect_disable">"Nē"</string>
+<string name="mobile_to_wlan_popup">"Atklāts Wi-Fi signāls %1$s, Vai lietot Wi-Fi tīklu, tīkla izmantošana varētu izraisīt daļēju biznesa datu pārrāvumu"</string>
+<string name="network_disconnect_title">"Paziņojums"</string>
+<string name="network_disconnect_message">"Wi-Fi tīkls ir atvienots. \nVai savienot ar mobilo datu palīdzību? \nJa jums nav datu plāna, tas varētu prasīt papildus izdevumus."</string>
+<string name="gprs_to_wifi_yes">"Jā"</string>
+<string name="gprs_to_wifi_no">"Nē"</string>
+<string name="select_trusted_ap_access">"Sekojošais ir atrasts uzticamiem ap pieejas punktiem"</string>
+</resources>

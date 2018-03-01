@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">"AP موثوقه والالوية"</string>
+<string name="wifi_move_ap_up">"الى الاعلى"</string>
+<string name="wifi_move_ap_down">"الى الاسفل"</string>
+<string name="wifi_save_update">"استخدام هذا التسجيل"</string>
+<string name="trusted_ap_list_null">"لا يوجد تطبيق موثوق!"</string>
+<string name="mobile_to_wlan_popup_title">"إيجاد Wifi موثوق"</string>
+<string name="mobile_data_connect_enable">"Yes"</string>
+<string name="mobile_data_connect_disable">"No"</string>
+<string name="mobile_to_wlan_popup">""اكتشاف إشارة wifi %1$s، لإستخدام شبكة wifi، استخدام الشبكة يمن أن يعمل تعارض تجاري لبيانات جزئية" "</string>
+<string name="network_disconnect_title">"ملاحظات"</string>
+<string name="network_disconnect_message">""شبكة wifi مفصولة. \nالإتصال بواسطة بيانات الهاتف؟\nإذا لم يكن معك خاطة بيانات، فربما ستضطر لدفع تكاليف إضافية." "</string>
+<string name="gprs_to_wifi_yes">"Yes"</string>
+<string name="gprs_to_wifi_no">"No"</string>
+<string name="select_trusted_ap_access">"تم العثور على ap التاليه كنقط وصول موثوقه "</string>
+</resources>

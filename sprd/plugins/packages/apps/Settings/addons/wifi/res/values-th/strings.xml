@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">AP และการจัดลำดับความสำคัญที่น่าเชื่อถือ</string>
+<string name="wifi_move_ap_up">ขึ้น</string>
+<string name="wifi_move_ap_down">ลง</string>
+<string name="wifi_save_update">"ใช้การบันทึกนี้"</string>
+<string name="trusted_ap_list_null">ไม่มีเชื่อถือ AP!</string>
+<string name="mobile_to_wlan_popup_title">"ค้นหาไวไฟAPเชื่อถือได้"</string>
+<string name="mobile_data_connect_enable">"ใช่"</string>
+<string name="mobile_data_connect_disable">"ไม่"</string>
+<string name="mobile_to_wlan_popup">"ค้นพบสัญญาณไวไฟ%1$sวินาที, ไม่ว่าจะใช้เครือข่ายไวไฟโดยเครือข่ายอาจทำให้ข้อมูลบางส่วนหยุดชะงัก"</string>
+<string name="network_disconnect_title">เตือน</string>
+<string name="network_disconnect_message">"เครือข่ายไวไฟเชื่อมต่อ. \nเชื่อมต่อข้อมูลบนมือถือผ่าน? \n ถ้าคุณมีข้อมูลก็อาจมีค่าใช้จ่ายเพิ่มเติม."</string>
+<string name="gprs_to_wifi_yes">"ใช่"</string>
+<string name="gprs_to_wifi_no">"ไม่"</string>
+<string name="select_trusted_ap_access">ด้านล่างนี้ถูกพบในจุดเข้าถึงอินเตอร์เน็ตที่น่าเชื่อถือ</string>
+</resources>

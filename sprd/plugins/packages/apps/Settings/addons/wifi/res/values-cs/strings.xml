@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">Důvěryhodné AP a prioritní</string>
+<string name="wifi_move_ap_up">Nahoru</string>
+<string name="wifi_move_ap_down">"Dolů"</string>
+<string name="wifi_save_update">"Uložit"</string>
+<string name="trusted_ap_list_null">Žádný důvěryhodný AP!</string>
+<string name="mobile_to_wlan_popup_title">"Nalezněte věrohodné Wi-Fi AP"</string>
+<string name="mobile_data_connect_enable">"Ano"</string>
+<string name="mobile_data_connect_disable">"Ne"</string>
+<string name="mobile_to_wlan_popup">"Objevení signálu Wi-Fi %1$s, Jestli používat síť Wi-Fi, používání sítě může vykonat částečné obchodní přerušení dat"</string>
+<string name="network_disconnect_title">Upozornění</string>
+<string name="network_disconnect_message">"Síť Wi-Fi je odpojená. \nPřipojit prostřednictvím mobilních dat? \nKdyž nemáte dátový plán, může učinit dodatečné poplatky."</string>
+<string name="gprs_to_wifi_yes">"Ano"</string>
+<string name="gprs_to_wifi_no">"Ne"</string>
+<string name="select_trusted_ap_access">Následující je nalezeno jako důvěryhodný přístupový bod</string>
+</resources>

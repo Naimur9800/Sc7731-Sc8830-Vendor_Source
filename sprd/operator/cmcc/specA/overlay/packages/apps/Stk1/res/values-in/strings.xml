@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Aplikasi SIM2"</string>
+<string name="menu_end_session">"Akhiri sesi"</string>
+<string name="help">"Bantuan"</string>
+<string name="menu_back">"Kembali"</string>
+<string name="service_name">"Nama layanan"</string>
+<string name="stk_no_service">"Layanan tidak tersedia"</string>
+<string name="button_ok">"OK"</string>
+<string name="button_cancel">"Batal"</string>
+<string name="button_yes">"Ya"</string>
+<string name="button_no">"Tidak"</string>
+<string name="alphabet">"Alfabet"</string>
+<string name="digits">"Digit (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"Panggilan sedang berlangsung..."</string>
+<string name="stk_app_state">"Status aplikasi"</string>
+<string name="enable_app">"Aktifkan"</string>
+<string name="disable_app">"Dinonaktifkan"</string>
+<string name="input_length_error">Panjang input minimum adalah: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">"Kesalahan jenis karakter"</string>
+<string name="action_setup_call">"Buat panggilan"</string>
+<string name="action_launch_browser">"Jalankan Browser"</string>
+<string name="incall_error_call_failed">"Panggilan tidak terkirim."</string>
+<string name="channel_connecting">Menghubungi Saluran ...</string>
+</resources>

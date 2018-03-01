@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">Kasaligan nga AP ug Prayoridad</string>
+<string name="wifi_move_ap_up">Taas</string>
+<string name="wifi_move_ap_down">Ubos</string>
+<string name="wifi_save_update">I-save</string>
+<string name="trusted_ap_list_null">Walay makasaligan nga ap!</string>
+<string name="mobile_to_wlan_popup_title">"Pangita ug sinaligan nga Wi-Fi AP"</string>
+<string name="mobile_data_connect_enable">O</string>
+<string name="mobile_data_connect_disable">"Dili"</string>
+<string name="mobile_to_wlan_popup">"Pagdiskubre sa Wi-Fi nga signal %1$s, Kon maggamit ug Wi-Fi nga network, ang paggamit sa network mahimong maghimo sa parsyal nga datus sa negosya nga mabalda"</string>
+<string name="network_disconnect_title">Abiso</string>
+<string name="network_disconnect_message">"Wi-Fi nga network kay naputol. \nKonek pinaagi sa mobayl nga datus? \nKung wala kay datus nga plano, kani mahimong maghatag ug dugang mga bayad."</string>
+<string name="gprs_to_wifi_yes">O</string>
+<string name="gprs_to_wifi_no">"Dili"</string>
+<string name="select_trusted_ap_access">Ang musunod kay nakit-an para sa kasaligan nga ap sa access point</string>
+</resources>

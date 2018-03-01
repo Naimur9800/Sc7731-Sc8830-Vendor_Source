@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"SIM1 Rakendus"</string>
+<string name="app_name_mono_card">"SIM Rakendus"</string>
+<string name="menu_end_session">"Seansi lõpp"</string>
+<string name="help">"Abi"</string>
+<string name="menu_back">"Tagasi"</string>
+<string name="service_name">"Teenuse nimi"</string>
+<string name="stk_no_service">"Teenused pole kättesaadavad"</string>
+<string name="button_ok">"OK"</string>
+<string name="button_cancel">"Tühista"</string>
+<string name="button_yes">"Jah"</string>
+<string name="button_no">"Ei"</string>
+<string name="alphabet">"Tähestikud"</string>
+<string name="digits">"Numbrid (0–9, *, #, +)"</string>
+<string name="default_call_setup_msg">"Kõne on pooleli ..."</string>
+<string name="stk_app_state">"Rakenduse olek"</string>
+<string name="enable_app">"Lubatud"</string>
+<string name="disable_app">"Keelatud"</string>
+<string name="input_length_error">"Minimaalne sisestuse pikkus on: <xliff:g id="input_minLen">%1$d</xliff:g>"</string>
+<string name="input_type_error">"Tähemärgi tippimise viga"</string>
+<string name="action_setup_call">"Tee kõne"</string>
+<string name="action_launch_browser">"Käivita Brauser"</string>
+<string name="incall_error_call_failed">"Kõnet ei tehtud."</string>
+<string name="channel_connecting">"Ühendan Kanalit ..."</string>
+</resources>

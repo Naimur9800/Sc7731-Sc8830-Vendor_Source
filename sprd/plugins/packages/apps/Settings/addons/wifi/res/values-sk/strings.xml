@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">"Dôveryhodný bod pripojenia a priorita"</string>
+<string name="wifi_move_ap_up">"Hore"</string>
+<string name="wifi_move_ap_down">"Dole"</string>
+<string name="wifi_save_update">"Uložiť"</string>
+<string name="trusted_ap_list_null">"Žiadny dôveryhodný bod pripojenia!"</string>
+<string name="mobile_to_wlan_popup_title">"Nájsť dôveryhodný Wi-Fi bod pripojenia"</string>
+<string name="mobile_data_connect_enable">"Áno"</string>
+<string name="mobile_data_connect_disable">"Nie"</string>
+<string name="mobile_to_wlan_popup">"Objavený Wi-Fi signál %1$s, pri použití Wi-Fi siete sa môže vyskytnúť čiastočné pracovné rušenie dát"</string>
+<string name="network_disconnect_title">"Oznámenie"</string>
+<string name="network_disconnect_message">"Wi-Fi sieť je odpojená. \nPripojiť cez mobilné dáta? \nAk nemáte dátové tarify, môže to navýšiť Vaše poplatky."</string>
+<string name="gprs_to_wifi_yes">"Áno"</string>
+<string name="gprs_to_wifi_no">"Nie"</string>
+<string name="select_trusted_ap_access">"Našlo sa nasledovné pre dôveryhodný bod pripojenia"</string>
+</resources>

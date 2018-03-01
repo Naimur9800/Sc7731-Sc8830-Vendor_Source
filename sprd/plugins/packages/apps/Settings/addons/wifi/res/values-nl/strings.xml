@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">Trusted AP en Prioriteit</string>
+<string name="wifi_move_ap_up">Naar boven</string>
+<string name="wifi_move_ap_down">Beneden</string>
+<string name="wifi_save_update">"Deze opname gebruiken"</string>
+<string name="trusted_ap_list_null">Geen vertrouwde ap!</string>
+<string name="mobile_to_wlan_popup_title">"Wifi netwerk is niet verbonden. \nConnecteren via mobiele data? \nAls u geen data-abonnement hebt, kunnen er extra kosten ontstaan."</string>
+<string name="mobile_data_connect_enable">"Ja"</string>
+<string name="mobile_data_connect_disable">"Nee"</string>
+<string name="mobile_to_wlan_popup">"Het DRM bestand verwerken of niet <xliff:g id="DRMFILENAME">%s</xliff:g>？"</string>
+<string name="network_disconnect_title">Opmerken</string>
+<string name="network_disconnect_message">"Het recht om<xliff:g id="DRMFILE">%s</xliff:g> het document is niet beschikbaar，klik op vernieuwen om het correcte bestant te downloaden"</string>
+<string name="gprs_to_wifi_yes">"Ja"</string>
+<string name="gprs_to_wifi_no">"Nee"</string>
+<string name="select_trusted_ap_access">Het volgende is gevonden voor vertrouwen access point ap</string>
+</resources>

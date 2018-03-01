@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">"Trusted AP і пріоритет"</string>
+<string name="wifi_move_ap_up">"Вгору"</string>
+<string name="wifi_move_ap_down">Вниз</string>
+<string name="wifi_save_update">"Використ. цей запис"</string>
+<string name="trusted_ap_list_null">"Немає довірений AP!"</string>
+<string name="mobile_to_wlan_popup_title">""знайти надійний Wi-Fi AP" "</string>
+<string name="mobile_data_connect_enable">"да"</string>
+<string name="mobile_data_connect_disable">"немає"</string>
+<string name="mobile_to_wlan_popup">""перевірте сигнал wifi %1$s.Під час використ. Мережа wifi може викл.часткові перебої" "</string>
+<string name="network_disconnect_title">"Сповіщення"</string>
+<string name="network_disconnect_message">"wifi відключено. Підкл через телефон?Може стягуватися додаткова плата"  "</string>
+<string name="gprs_to_wifi_yes">"да"</string>
+<string name="gprs_to_wifi_no">"немає"</string>
+<string name="select_trusted_ap_access">"Наступні дані найдено для довіренної точки доступу AP"</string>
+</resources>

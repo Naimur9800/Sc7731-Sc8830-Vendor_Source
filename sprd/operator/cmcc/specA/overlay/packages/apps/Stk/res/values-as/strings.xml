@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"SIM1 এপ্লিকেচন"</string>
+<string name="app_name_mono_card">"SIM এপ্লিকেচন"</string>
+<string name="menu_end_session">"ম্যাদ সমাপ্ত কৰক"</string>
+<string name="help">"সহায়"</string>
+<string name="menu_back">"পিছলৈ"</string>
+<string name="service_name">"সেৱাৰ নাম"</string>
+<string name="stk_no_service">"কোনো সেৱা উপলব্ধ নাই"</string>
+<string name="button_ok">"ঠিক আছে"</string>
+<string name="button_cancel">"নাকচ"</string>
+<string name="button_yes">"হয়"</string>
+<string name="button_no">"নহয়"</string>
+<string name="alphabet">"বৰ্ণ"</string>
+<string name="digits">"সংখ্যা (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"কল চলি আছে\u2026"</string>
+<string name="stk_app_state">"এপ্লিকেচন স্থিতি"</string>
+<string name="enable_app">"সক্ষম হৈছে"</string>
+<string name="disable_app">"অদৃশ্য"</string>
+<string name="input_length_error">"সৰ্বাধিক ইনপুট দৈৰ্ঘ্য হৈছে: <xliff:g id="input_minLen">%1$d</xliff:g>"</string>
+<string name="input_type_error">"বৰ্ণ প্ৰকাৰ ত্ৰুটি"</string>
+<string name="action_setup_call">"কল এটা কৰক"</string>
+<string name="action_launch_browser">"ব্ৰাউজাৰ আৰম্ভ কৰক"</string>
+<string name="incall_error_call_failed">"কল পঠিওৱা হোৱা নাই৷"</string>
+<string name="channel_connecting">"চেনেল সংযোগ হৈ আছে..."</string>
+</resources>

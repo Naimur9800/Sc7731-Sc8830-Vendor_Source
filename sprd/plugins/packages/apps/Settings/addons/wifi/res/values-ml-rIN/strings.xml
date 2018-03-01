@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">"വിശ്വസ്ത APകളും മുന്‍ഗണനകളും"</string>
+<string name="wifi_move_ap_up">"മുകളിലേക്ക്"</string>
+<string name="wifi_move_ap_down">"താഴോട്ട്"</string>
+<string name="wifi_save_update">"സൂക്ഷിക്കുക"</string>
+<string name="trusted_ap_list_null">"വിശ്വസ്തമായ ap ഒന്നും ഇല്ല!"</string>
+<string name="mobile_to_wlan_popup_title">"വിശ്വസ്തമായWi-Fi APകണ്ടെത്തുക"</string>
+<string name="mobile_data_connect_enable">"അതെ"</string>
+<string name="mobile_data_connect_disable">"അല്ല"</string>
+<string name="mobile_to_wlan_popup">"Wi-Fiസിഗ്നല്‍%1$sകണ്ടെത്തി, Wi-Fiഉപയോഗിക്കണോ എന്ന് തീര്‍ച്ചപ്പെടുത്തുക,നെറ്റ്വര്‍ക്ക് ഉപയോഗിക്കുന്നത് ഭാഗികമായ ഡാറ്റാ കൈമാറ്റ തടസ്സത്തിനു കാരണമായേക്കാം"</string>
+<string name="network_disconnect_title">"അറിയിപ്പ്"</string>
+<string name="network_disconnect_message">"Wi-Fiനെറ്റ്വര്‍ക്ക് വിച്ഛേദിച്ചു. \nമൊബൈല്‍ ഡാറ്റ വഴി കണക്ട് ചെയ്യണോ? \nതാങ്കള്‍ക്ക് ഡാറ്റാ പ്ലാന്‍ ഇല്ലെങ്കില്‍ അധിക ചാര്‍ജ് വരുന്നതിനിടയാകും."</string>
+<string name="gprs_to_wifi_yes">"അതെ"</string>
+<string name="gprs_to_wifi_no">"അല്ല"</string>
+<string name="select_trusted_ap_access">"വിശ്വസ്ത ആക്സസ് പോയിന്റ് ap ആയി താഴെക്കാണുന്നത് കണ്ടെത്താനായി"</string>
+</resources>

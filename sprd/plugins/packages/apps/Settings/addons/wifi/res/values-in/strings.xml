@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">AP terpercaya dan prioritas</string>
+<string name="wifi_move_ap_up">Naik</string>
+<string name="wifi_move_ap_down">Turun</string>
+<string name="wifi_save_update">"Gunakan rekaman ini"</string>
+<string name="trusted_ap_list_null">Tidak ada ap yang tepercaya!</string>
+<string name="mobile_to_wlan_popup_title">"Menemukan aplikasi Wi-Fi terpercaya"</string>
+<string name="mobile_data_connect_enable">"Ya"</string>
+<string name="mobile_data_connect_disable">"Tidak"</string>
+<string name="mobile_to_wlan_popup">"Menjelajahi sinyal Wi-Fi %1$s,menggunakan jaringan akan membuat sebagian data bisnis terhenti"</string>
+<string name="network_disconnect_title">Beritahu</string>
+<string name="network_disconnect_message">"Jaringan Wi-Fi sedang tidak terhubung,\nKonek melalui data mobile? \njika anda tidak mempunyai rancangan data, itu akan dikenakan charger tambahan."</string>
+<string name="gprs_to_wifi_yes">"Ya"</string>
+<string name="gprs_to_wifi_no">"Tidak"</string>
+<string name="select_trusted_ap_access">Berikut ini ditemukan untuk akses poin ap yang dipercaya</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"SIM3 Uygulaması"</string>
+<string name="menu_end_session">"Oturumu sonlandır"</string>
+<string name="help">"Yardım"</string>
+<string name="menu_back">"Geri"</string>
+<string name="service_name">"Hizmet adı"</string>
+<string name="stk_no_service">"Kullanılabilir hizmet yok"</string>
+<string name="button_ok">"Tamam"</string>
+<string name="button_cancel">"İptal"</string>
+<string name="button_yes">"Evet"</string>
+<string name="button_no">"Hayır"</string>
+<string name="alphabet">"Alfabe karakterleri"</string>
+<string name="digits">"Rakamlar (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"Çağrı sürüyor..."</string>
+<string name="stk_app_state">"Uygulama durumu"</string>
+<string name="enable_app">"Etkin"</string>
+<string name="disable_app">"Devre dışı"</string>
+<string name="input_length_error">Minimum girdi uzunluğu: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">Karakter tipi hatası</string>
+<string name="action_setup_call">Arama yap</string>
+<string name="action_launch_browser">Tarayıcıyı Çalıştır</string>
+<string name="incall_error_call_failed">"Çağrı gönderilmedi."</string>
+<string name="channel_connecting">Kanal Bağlanıyor...</string>
+</resources>

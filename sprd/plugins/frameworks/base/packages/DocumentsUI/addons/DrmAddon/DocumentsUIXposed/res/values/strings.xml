@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="drm_not_be_selected">Drm files can not be selected</string>
+	<string name="drm_not_be_shared">Drm files can not be shared</string>
+	<string name="error_in_shared">error in shared</string>
+</resources>

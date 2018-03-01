@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"SIM3 एप्लिकेशन"</string>
+<string name="menu_end_session">"सत्र समाप्त करें"</string>
+<string name="help">"सहायता"</string>
+<string name="menu_back">"वापस जाएं"</string>
+<string name="service_name">"सेवा का नाम"</string>
+<string name="stk_no_service">"कोई सेवा उपलब्ध नहीं"</string>
+<string name="button_ok">"ठीक"</string>
+<string name="button_cancel">"रद्द करें"</string>
+<string name="button_yes">"हां"</string>
+<string name="button_no">"नहीं"</string>
+<string name="alphabet">"अक्षर"</string>
+<string name="digits">"अंक (0-9, *, #, +)"</string>
+<string name="default_call_setup_msg">"कॉल चल रही है..."</string>
+<string name="stk_app_state">"एप्लिकेशन स्थिति"</string>
+<string name="enable_app">"सक्षम की गई"</string>
+<string name="disable_app">"अक्षम किया गया"</string>
+<string name="input_length_error">न्यूनतम प्रविष्टि लम्बाई है: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">वर्ण प्रकार त्रुटि</string>
+<string name="action_setup_call">एक कॉल करें </string>
+<string name="action_launch_browser">ब्राउजर लॉन्च करें</string>
+<string name="incall_error_call_failed">"कॉल नहीं भेजी गई."</string>
+<string name="channel_connecting">चैनल कनेक्ट किया जा रहा है ...</string>
+</resources>

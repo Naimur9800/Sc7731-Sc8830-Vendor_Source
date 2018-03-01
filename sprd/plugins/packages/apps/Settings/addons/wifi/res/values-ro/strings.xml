@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">AP de încredere şi Prioritate</string>
+<string name="wifi_move_ap_up">Sus</string>
+<string name="wifi_move_ap_down">În jos</string>
+<string name="wifi_save_update">"Salvaţi"</string>
+<string name="trusted_ap_list_null">Aplicatie care nu prezinta incredere!</string>
+<string name="mobile_to_wlan_popup_title">"Găsiţi un AP Wi-Fi de încredere"</string>
+<string name="mobile_data_connect_enable">"Da"</string>
+<string name="mobile_data_connect_disable">"Nu"</string>
+<string name="mobile_to_wlan_popup">"S-a identificat semnal Wi-Fi %1$s; dacă doriţi să utilizaţi reţeaua Wi-Fi, utilizarea reţelei poate conduce la întreruperi parţiale ale serviciului de date"</string>
+<string name="network_disconnect_title">Aviz</string>
+<string name="network_disconnect_message">"Reţeaua Wi-Fi este deconectată. \nVă conectaţi prin reţeaua de date mobile? \nDacă nu aveţi un plan de date, pot interveni cheltuieli suplimentare."</string>
+<string name="gprs_to_wifi_yes">"Da"</string>
+<string name="gprs_to_wifi_no">"Nu"</string>
+<string name="select_trusted_ap_access">Următoarele se găsesc pentru punctul de acces de încredere al ap</string>
+</resources>

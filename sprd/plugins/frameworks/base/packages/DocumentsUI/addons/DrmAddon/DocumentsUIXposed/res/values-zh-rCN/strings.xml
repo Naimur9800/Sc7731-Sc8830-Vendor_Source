@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="drm_not_be_shared">Drm文件不能被分享</string>
+    <string name="drm_not_be_selected">DRM文件不能被选择</string>
+    <string name="error_in_shared">分享失败</string>
+</resources>

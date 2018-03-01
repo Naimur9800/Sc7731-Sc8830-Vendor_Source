@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">विश्वसनीय AP और प्राथमिकता</string>
+<string name="wifi_move_ap_up">ऊपर</string>
+<string name="wifi_move_ap_down">नीचे</string>
+<string name="wifi_save_update">"पूर्ण"</string>
+<string name="trusted_ap_list_null">कोई विश्वसनीय ऐप नहीं है!</string>
+<string name="mobile_to_wlan_popup_title">"पाएं एक विश्वसनीय Wi-Fi AP"</string>
+<string name="mobile_data_connect_enable">"हां"</string>
+<string name="mobile_data_connect_disable">"नहीं"</string>
+<string name="mobile_to_wlan_popup">"Wi-Fi सिग्नल %1$s की खोज, Wi-Fi नेटवर्क का प्रयोग करना या नहीं करना, नेटवर्क का प्रयोग करने से आंशिक डेटा कारोबार में व्यवधान हो सकता है"</string>
+<string name="network_disconnect_title">नोटिस</string>
+<string name="network_disconnect_message">"Wi-Fi नेटवर्क से संबंध विच्छेदित है। \nसंपर्क मोबाइल डेटा द्वारा करें? \nयदि आप नेट के डेटा प्लान से करते हैं, इससे अतिरिक्त प्रभार लग सकता है।"</string>
+<string name="gprs_to_wifi_yes">"हां"</string>
+<string name="gprs_to_wifi_no">"नहीं"</string>
+<string name="select_trusted_ap_access">विश्वसनीय एक्सेस प्वाइंट एपी के लिए निम्नलिखित मिला है </string>
+</resources>

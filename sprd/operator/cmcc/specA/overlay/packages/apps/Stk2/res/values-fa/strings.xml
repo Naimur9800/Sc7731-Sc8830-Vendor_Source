@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"SIM3 کارکرد"</string>
+<string name="menu_end_session">"پایان جلسه"</string>
+<string name="help">"راهنما"</string>
+<string name="menu_back">"برگشت"</string>
+<string name="service_name">"نام سرویس"</string>
+<string name="stk_no_service">"سرویسی موجود نیست"</string>
+<string name="button_ok">"تائید"</string>
+<string name="button_cancel">"تأیید"</string>
+<string name="button_yes">"بله"</string>
+<string name="button_no">"خیر"</string>
+<string name="alphabet">"الفبا"</string>
+<string name="digits">"ارقام (0-9، *، #، +)"</string>
+<string name="default_call_setup_msg">"تماس در حال انجام..."</string>
+<string name="stk_app_state">"حالت برنامه کاربردی"</string>
+<string name="enable_app">"فعال شد"</string>
+<string name="disable_app">"غیر فعال شد"</string>
+<string name="input_length_error">حداقل طول ورودی: <xliff:g id="input_minLen">%1$d</xliff:g></string>
+<string name="input_type_error">خطای تایپ کاراکتر</string>
+<string name="action_setup_call">برقراری تماس</string>
+<string name="action_launch_browser">راه اندازی مرورگر</string>
+<string name="incall_error_call_failed">"تماس ارسال نشد."</string>
+<string name="channel_connecting">در حال لغو کانال...</string>
+</resources>

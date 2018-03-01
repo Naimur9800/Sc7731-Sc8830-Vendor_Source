@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">AP de confiança e Prioridade</string>
+<string name="wifi_move_ap_up">Cima</string>
+<string name="wifi_move_ap_down">Baixo</string>
+<string name="wifi_save_update">"Salvar"</string>
+<string name="trusted_ap_list_null">Sem AP confiável!</string>
+<string name="mobile_to_wlan_popup_title">"Procurar uma Wi-Fi AP confiada"</string>
+<string name="mobile_data_connect_enable">"Sim"</string>
+<string name="mobile_data_connect_disable">"Não"</string>
+<string name="mobile_to_wlan_popup">"Descoberta de sinal de Wi-Fi %1$s, se usa o Wi-Fi rede, usando o rede pode fazer a interrrupção de negócio de dados parciais"</string>
+<string name="network_disconnect_title">Aviso</string>
+<string name="network_disconnect_message">"O Wi-Fi rede é desligado. \nLigue via dados móveis? \nSe você tem plano de dados, o qual pode ocorrer os custos adicionais."</string>
+<string name="gprs_to_wifi_yes">"Sim"</string>
+<string name="gprs_to_wifi_no">"Não"</string>
+<string name="select_trusted_ap_access">O seguinte foi encontrado como ponto de acesso de confiança</string>
+</resources>

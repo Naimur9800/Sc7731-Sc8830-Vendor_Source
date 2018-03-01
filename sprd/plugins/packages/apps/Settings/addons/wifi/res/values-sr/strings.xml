@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">"Поуздана пристуипна тачка и приоритет"</string>
+<string name="wifi_move_ap_up">"Горе"</string>
+<string name="wifi_move_ap_down">"Доле"</string>
+<string name="wifi_save_update">"Сачувај"</string>
+<string name="trusted_ap_list_null">"Нема поузданих апликација!"</string>
+<string name="mobile_to_wlan_popup_title">"Пронађите поуздану Wи-Фи апликацију"</string>
+<string name="mobile_data_connect_enable">"Да"</string>
+<string name="mobile_data_connect_disable">"Не"</string>
+<string name="mobile_to_wlan_popup">"Откриће Wи-Фи сигнала% 1 $ S, да ли користити Wи-Фи мрежу, помоћу мреже може се направити дјеломични прекид пословања са подацима""</string>
+<string name="network_disconnect_title">"Обавест"</string>
+<string name="network_disconnect_message">"Wи-Фи мрежа је искључена. \nПовезивање путем мобилних података? \nУколико немате план података, могу се догодити додатни трошкови."</string>
+<string name="gprs_to_wifi_yes">"Да"</string>
+<string name="gprs_to_wifi_no">"Не"</string>
+<string name="select_trusted_ap_access">"За апликацију поузданих приступних тачака пронађено је следеће"</string>
+</resources>

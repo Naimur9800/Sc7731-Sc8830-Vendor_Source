@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="wifi_trusted_ap_category">ተአማኒ AP እና ቅድሚያ</string>
+<string name="wifi_move_ap_up">ላይ</string>
+<string name="wifi_move_ap_down">ታች</string>
+<string name="wifi_save_update">አስቀምጥ</string>
+<string name="trusted_ap_list_null">የታመነ የመድረሻ ነጥብ የለም!</string>
+<string name="mobile_to_wlan_popup_title">"የሚታመንበት Wi-Fi AP ፈልግ"</string>
+<string name="mobile_data_connect_enable">"ጩኸት"</string>
+<string name="mobile_data_connect_disable">አይ</string>
+<string name="mobile_to_wlan_popup">"የWi-Fi ምልክት %1$s ተገኝቷል፣ የWi-Fi ኔትዎርኩ ልጠቀም፣ ኔትዎረኩ መጠቀም ምንአልባት በከፊል የመረጃ ልዉዉጥ መቋረጥ ሊያስከትል ይችላል"</string>
+<string name="network_disconnect_title">ማስታወቂያ</string>
+<string name="network_disconnect_message">""የWi-Fi ኔትዎረከ ግንኙነት ተቋርጧል፣ በሞባይል ዳታ \nይገናኝ? \nበሞባይል ዳታ ኔትዎርክ ከተገናኘ ተጨማሪ ሂሳብ ሊያመጣ ይችላል፡፡"</string>
+<string name="gprs_to_wifi_yes">"ጩኸት"</string>
+<string name="gprs_to_wifi_no">አይ</string>
+<string name="select_trusted_ap_access">የሚከተለው የተገኘው ለተዓማኒ መዳረሻ ነጥብ መተግበሪያ ነው</string>
+</resources>

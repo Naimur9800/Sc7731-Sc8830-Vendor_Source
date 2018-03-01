@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"SIM3 ေအပီပီ"</string>
+<string name="menu_end_session">အပိုင္းကို ျပီးဆံုးေစပါ</string>
+<string name="help">အကူအညီ</string>
+<string name="menu_back">"ေနာက္သို႔"</string>
+<string name="service_name">၀န္ေဆာင္မႈအမည္</string>
+<string name="stk_no_service">၀န္ေဆာင္မႈမရ႐ွိႏိုင္ပါ</string>
+<string name="button_ok">"လုပ္မည္"</string>
+<string name="button_cancel">"မလုပ္ပါ"</string>
+<string name="button_yes">လုပ္မည္</string>
+<string name="button_no">"မလုပ္ပါ"</string>
+<string name="alphabet">"အကၡရာမ်ား"</string>
+<string name="digits">ကိန္းဂဏန္းမ်ား (0-9, *, #, +)</string>
+<string name="default_call_setup_msg">ဖုန္းေျပာေနဆဲ</string>
+<string name="stk_app_state">ပ႐ိုဂရမ္အဆင္အျပင္မ်ား</string>
+<string name="enable_app">ဖြင့္ထားျပီး</string>
+<string name="disable_app">ပိတ္ထားျပီး</string>
+<string name="input_length_error">အနည္းဆံုးထည့္သြင္းခ်က္အတိုင္းအတာမွာ <xliff:g id="input_minLen">%1$d</xliff:g> ျဖစ္သည္</string>
+<string name="input_type_error">စကားလံုးပံုစံအမွားျပေနသည္</string>
+<string name="action_setup_call">ဖုန္းေခၚဆိုပါ</string>
+<string name="action_launch_browser">ဘေရာက္ဆာကို စပါ</string>
+<string name="incall_error_call_failed">ဖုန္းေခၚဆုိမႈမပို႔ပါ</string>
+<string name="channel_connecting">ရုပ္သံလိုင္း ဆက္သြယ္ေနသည္…</string>
+</resources>
